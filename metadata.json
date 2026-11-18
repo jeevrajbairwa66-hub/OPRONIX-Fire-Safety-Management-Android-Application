@@ -1,0 +1,6 @@
+{
+  "name": "OPRONIX",
+  "description": "OPRONIX Fire Safety Solutions - Premium fire safety products, installation, maintenance & AMC services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
