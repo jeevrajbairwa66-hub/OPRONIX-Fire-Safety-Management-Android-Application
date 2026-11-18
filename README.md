@@ -1,0 +1,2 @@
+# OPRONIX-Fire-Safety-Management-Android-Application
+**OPRONIX – Fire Safety Management Android Application**  Developed a modern Android application designed to streamline fire safety product management, service bookings, and customer operations.  The application features a professional, user-friendly interface with role-based dashboards for Admins, Technicians, and Customers.  **Key Features:** - 
